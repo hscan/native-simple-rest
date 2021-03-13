@@ -1,2 +1,2 @@
-# native-simple-rest
-SImples sample of Spring Native beta project
+# nativesimplerest
+Simples sample of Spring Native beta project
